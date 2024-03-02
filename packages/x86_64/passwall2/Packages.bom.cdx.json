@@ -1,0 +1,1 @@
+{"bomFormat":"CycloneDX","metadata":{"timestamp":"2024-03-02T20:38:12"},"specVersion":"1.4","components":[{"type":"application","version":"1.27","name":"luci-app-passwall2"},{"name":"luci-i18n-passwall2-zh-cn","type":"application","version":"git-24.062.29595-fce5050"}],"serialNumber":"urn:uuid:48be6b1f-5d37-4953-959c-876298dcc43a","version":1}
